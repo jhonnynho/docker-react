@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           I was changed on the Feature branch
+          Learn React
         </a>
       </header>
     </div>
